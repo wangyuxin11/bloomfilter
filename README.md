@@ -260,3 +260,6 @@ You can just use maven to import dependency package or use your own compiled jar
 You may copy this code directly into your project if you leave the LGPL-comment in place and reference the following hyperlink:</br>
 https://github.com/MagnusS/Java-BloomFilter</br>
 https://github.com/wxisme/bloomfilter</br>
+
+
+BloomFilter算法及其适用场景
